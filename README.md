@@ -1,7 +1,9 @@
 # 💫 About Me:
 <br>My name is Kenyon, and I'm a high school student interested in offensive security research and development</br>
-<br>I’m currently working on Offensive tooling development</br>
-<br>I’m currently learning Vulnerability Research</br>
+
+<br>- I’m currently working on Offensive tooling development</br>
+
+<br>- I’m currently learning Vulnerability Research</br>
 
 
 ## 🌐 Socials:
