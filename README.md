@@ -1,9 +1,9 @@
 # 💫 About Me:
-<br>Hi, My name is Kenyon and I'm a high school student interested in offensive security research and development</br>
+<br>Hello there, my name is Kenyon, and I am studying computer science @ Kent State University. My interests center around low-level exploitation, reverse engineering, and vulnerability research</br>
 
-<br>- I’m currently working on Offensive tool development</br>
+<br>- I’m currently working on Capture The Flag Challenges</br>
 
-<br>- I’m currently learning Vulnerability Research</br>
+<br>- I’m currently learning mitigation bypassing and exploit primitives</br>
 
 
 ## 🌐 Socials:
