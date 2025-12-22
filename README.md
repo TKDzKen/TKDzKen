@@ -1,10 +1,6 @@
 # 💫 About Me:
 <br>Hello there, my name is Kenyon, and I am studying computer science @ Kent State University. My interests center around low-level exploitation, reverse engineering, and vulnerability research</br>
 
-<br>- I’m currently working on Capture The Flag Challenges</br>
-
-<br>- I’m currently learning mitigation bypassing and exploit primitives</br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenyon-bias-b97849275/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kenZ16TKD) 
