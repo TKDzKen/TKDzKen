@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello there, my name is Kenyon, and I am studying computer science @ Kent State University. My interests center around low-level exploitation, reverse engineering, and vulnerability research</br>
+<br>Hello there, my name is Kenyon. I study Cellular & Molecular Biology @ Kent State University | Department of Biological Sciences</br>
 
 
 ## 🌐 Socials:
